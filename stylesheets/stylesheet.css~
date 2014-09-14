@@ -16,58 +16,6 @@ body {
   margin: 0 auto;
 }
 
-/*----- Tabs -----*/
-
-.tabs {
-	width:100%;
-	display:inline-block;
-} 
-
-.tab-links li {
-	margin:0px 5px;
-	float:left;
-	list-style:none;
-}
-
-.tab-links a { /* for links */
-	paddingL9px 15px;
-	display:inline-block;
-	border-radius:3px 3px 0px 0px;
-	backgroud:#7FB5DA;
-	font-size:16px;
-	font-weight:600;
-	color:#4c4c4c;
-	transtition:all linear 0.15s;
-}
-
-.tab-links a:hover {
-	background:#a7cce5;
-	text-decoration:none;
-}
-
-.li.active, li.active a:hover { //for the current activated tab
-	background:#fff;
-	color:#4c4c4c;
-}
-
-/*----- Content of Tabs -----*/
-.tab-content { //background of tab content section
-	padding:15px;
-	border-radius:3px;
-	box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
-	background:#fff;
-}
-
-.tab { //hides all the tabs
-	display:none;
-}
-
-.tab.active { //shows the active tab only
-	display:block;
-}
-
-
-
 section {
   display: block;
   margin: 0 0 20px 0;
