@@ -269,6 +269,13 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+.bio {
+	position:relative;
+	max-width: 600px;
+	padding: 30px 15px;
+	margin:0 auto;
+}
+
 #forkme_banner {
   display: block;
   position: absolute;
