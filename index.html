@@ -2,13 +2,36 @@
 <html>
 
 <head>
-<meta charset='utf-8'>
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta name="description" content="Welcome to SadmanSK.me : The GitHub Page for Sadman Kazi">
-<link rel="shortcut icon" type="image/x-icon" href="icon.ico" />
-<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-<link rel="icon" type="image/png" href="images/title.png">
-<title>Sadman Kazi</title>
+	<meta charset='utf-8'>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta name="description" content="Welcome to SadmanSK.me : The GitHub Page for Sadman Kazi">
+	<link rel="shortcut icon" type="image/x-icon" href="icon.ico" />
+	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/bootstrap.css">
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+	<link rel="icon" type="image/png" href="images/title.png">
+	<title>Sadman Kazi</title>
+	<!--LinkedIn full profile script-->
+	<script type="text/javascript" src="http://platform.linkedin.com/in.js">
+	  api_key: o1yf9WMdgd8dp_OGkmtXESCOJFostN8N1jI1AFKY2i0kJ1QFNMOs3a6R5qUoBIqF
+	  authorize: true
+	</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.5b1.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>  
+
+	<script type="text/javascript">
+
+	function loadData() {
+	IN.API.Profile("me")
+	   .result(function(result) { 
+	      $("#profile").html('<script type="IN/FullMemberProfile" data-id="' + result.values[0].id + '"></script>');
+	      IN.parse(document.getElementById("profile"))
+	   })
+	}
+
+	</script>
+
 </head>
 
 <body>
@@ -48,23 +71,23 @@ I am a computer enthusiast. It includes everything from building computers to ga
 
 <h3>
 <a name="projects" class="anchor" href="#projects"><span class="octicon octicon-link"></span></a>Projects</h3>
-<p align = "right"><em> All of these projects can be found on my <a href="https://github.com/unknown2374">GitHub</a>.</em></p>
+<p align = "right"><em> All of these projects and many more can be found on my <a href="https://github.com/unknown2374">GitHub</a>.</em></p>
 
-<h5><a href="http://www.citykit.ca" target="new">City Kit</a> <em>(November 2014)</em></h5>
+<h4><a href="http://www.citykit.ca" target="new">City Kit</a> <em>(November 2014)</em></h4>
 <p align="justify">City Kit was developed at the <a href="http://laurierentrepreneur.ca/event/24-hour-startup-2014/" target="new">24 hour Startup</a> hackathon hosted by the City of Kitchener. This started off as a web app that was initially targetted towards tourists or new residents of the Kitchener/Waterloo area who want to explore the city and what it has to offer. Since it was more of an "entrepreneur" focused hackathon, we were required to have a sustainable business plan. Most of what our app had was an embedded Google map that pulled data from Kitchener's open-data database, we took advantage of that and innovated geolocalized advertisements. Instead of the usual ad embeddings around the page, our advertisements would be put on the map itself. This would easily show the user where exactly the business is. We also pulled data from Red Flag Deals and Groupon so that the user can also benefit from using the app by finding deals around him/herself really fast without any inconveniences.</p>
 
-<h5><a href="MyoPad">Myo Pad</a> <em>(October 2014)</em></h5>
+<h4><a href="MyoPad">Myo Pad</a> <em>(October 2014)</em></h4>
 <p align="justify">The Myo armband lets you use the electrical activity in your muscles to wirelessly control your computer, phone, and other favorite digital technologies. With the wave of your hand, it will transform how you interact with your digital world. For more information, check out their <a href="http://www.thalmic.com/en/myo/">website</a>.
 </br>
 Myo Pad is a program that can be used to export drawings/writings on a surface wearing the Myo armband to graphical data on a computer. More information on both the development as well as the product description of our project can be found on the <a href="http://github.com/unknown2374/MyoPad" target="new">Github page</a> as well as the <a href="MyoPad">project website</a>.</p>
 
-<h5><a href="Eclipse.html">Eclipse</a> <em>(July 2014)</em></h5>
+<h4><a href="Eclipse.html">Eclipse</a> <em>(July 2014)</em></h5>
 <p align="justify">Eclipse is a 3d Android game that I developed for fun on my free time. I am in charge of the entire development part of the game, including but not limited to: back end, front end, scripting, texturing, scene set up, and lighting.I am using Unity3d as the game engine and C# for the scripting of the game objects. You can download the current alpha version here - <a href="downloads/Eclipsice_v042.apk">Eclipse v0.42</a> <em>(Released on 27/08/14)</em>.</p>
 
-<h5><a href="http://github.com/unknown2374/PokemonAmethyst" target="new">Pokémon Amethyst</a> <em>(June 2014)</em></h5>
-<p align="justify">I developed a fully functional role playing game, based off the popular game/cartoon series franchise Pokémon. I was in charge of the back end, game logic, game play elements and most of the graphical elements in the game. The program includes more than ten different Java classes. You can download the game <a href="downloads/PokemonAmethyst.jar" target="_blank">here</a>.</p>
+<h4><a href="http://github.com/unknown2374/PokemonAmethyst" target="new">Pokémon Amethyst</a> <em>(June 2014)</em></h4>
+<p align="justify">I developed a fully functional role playing game, based off the popular game/cartoon series franchise Pokémon. I was in charge of the back end, game logic, game play elements and most of the graphical elements in the game. The program includes more than ten different Java classes. You can download the game <a href="downloads/PokemonAmethyst.jar">here</a>.</p>
 
-<h5><a href="http://github.com/unknown2374/PokerGame" target="new">Poker Hand Algorithms</a> <em>(June 2013)</em></h5>
+<h4><a href="http://github.com/unknown2374/PokerGame" target="new">Poker Hand Algorithms</a> <em>(June 2013)</em></h4>
 <p align="justify">As I was working on a poker game as the summative for my grade 11 computer science class, I was in charge of the back end of the program. I developed fairly complex algorithms that could check and categorize the poker rank of the different hands in the game. 
 I later wrote a program to test my algorithms on each of the rank checkers by checking one billion different hands and comparing the probability with the theoretical probability of each hand, the results proved my algorithm to be accurate.</p>
 
@@ -72,8 +95,20 @@ I later wrote a program to test my algorithms on each of the rank checkers by ch
 <h3>
 <a name="contact" class="anchor" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h3>
 
-<h5><strong>Email:</strong> <a href="mailto:sadmansazidk@gmail.com">sadmansazidk@gmail.com</a></h5>
-<h5><strong>Resume:</strong> <a href="resume.pdf">PDF</a>	<a href="downloads/resume.docx">Download .docx</a></h5>
+<p align="center"><strong>Email:</strong> <a href="mailto:sadmansazidk@gmail.com">sadmansazidk@gmail.com</a></p>
+<p class="yui3-skin-sam     yui-skin-sam">
+<div id="profile"></div>
+<script type="IN/Login" data-onAuth="loadData"></script>
+</p>
+<p align="center">
+	<strong>Resume:</strong>
+	<button type="button" class="btn btn-default btn-lg" style="margin-left:10px">
+  		<span class="glyphicon glyphicon-download" aria-hidden="true"></span> View PDF
+	</button>
+	<button type="button" class="btn btn-default btn-lg" style="margin-left:10px">
+  		<span class="glyphicon glyphicon-download" aria-hidden="true"></span> View DOCX
+	</button>
+</p>
 </section>
 </div>
 
