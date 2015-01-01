@@ -6,7 +6,7 @@
    :white_check_mark: Add resume link  
    :white_check_mark: Add LinkedIn profile snippet  
    :white_large_square: Add download buttons for the resume links  
-   :white_large_square: Second Major Release
+   :white_large_square: Second Major Release  
    :white_large_square: Bootstrap the website  
    :white_large_square: Add tabs for easier navigation  
    :white_large_square: Build github page for Eclipse  
