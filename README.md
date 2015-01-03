@@ -12,6 +12,6 @@
    :white_large_square: Better organization and design  
    :white_large_square: Add a footer  
    :white_large_square: Rework the position and other things of the resume links  
-   :white_large_square: Rework the entire projects section
+   :white_large_square: Rework the entire projects section  
    :white_large_square: Implement the current theme to other project sites    
    :white_large_square: Build github page for Eclipse  
