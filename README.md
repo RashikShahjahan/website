@@ -1,5 +1,5 @@
 #Source Code for www.sadmansk.me
-##Last major update: 1st January, 2015
+##Last major update: 2nd January, 2015
 
 ###Upcoming updates checklist:
    :black_medium_square: Keep information updated (this is ongoing :grin:)  
