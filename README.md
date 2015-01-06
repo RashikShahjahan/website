@@ -1,4 +1,4 @@
-#Source Code for www.sadmansk.me
+#Source Code for www.sadmansk.com
 ##Last major update: 2nd January, 2015
 
 ###Upcoming updates checklist:
