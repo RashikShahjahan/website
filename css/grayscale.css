@@ -159,6 +159,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#383838', end
 }
 
 .intro .intro-body .brand-heading {
+    margin-top: 40px;
     font-size: 40px;
 }
 
