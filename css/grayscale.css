@@ -378,16 +378,20 @@ body {
 }
 
 .pBlock {
-    width: 300px;
+    width: 340px;
     height: 400px;
-    margin: 5px;
+    margin: 8px;
     padding: 10px;
-    border: 1px solid #33B5E5;
+    border: 3px solid #202020;
     display: inline-block;
     position: relative;
     vertical-align: top;
 }
 
 .pBlock p {
-    font-size: 14px;
+    font-size: 16px;
+}
+
+hr {
+    border-top: 1px solid #202020;
 }
