@@ -380,11 +380,14 @@ body {
 .pBlock {
     width: 300px;
     height: 400px;
-    margin: 10px;
+    margin: 5px;
     padding: 10px;
     border: 1px solid #33B5E5;
-    font-size: 5px;
     display: inline-block;
     position: relative;
     vertical-align: top;
+}
+
+.pBlock p {
+    font-size: 14px;
 }
