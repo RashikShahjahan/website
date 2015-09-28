@@ -8,7 +8,7 @@
    :white_check_mark: Second Major Release  
    :white_check_mark: Bootstrap the website  
    :white_check_mark: Add tabs for easier navigation  
-   :white_check_mark: Third Major Release (02/01/15)
+   :white_check_mark: Third Major Release (02/01/15)  
    :white_check_mark: Better organization and design  
    :white_check_mark: Rework the position and other things of the resume links  
    :white_check_mark: Rework the entire projects section  
