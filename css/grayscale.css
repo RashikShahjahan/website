@@ -169,7 +169,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#383838', end
 
 @media(min-width:767px) {
     .intro {
-        height: 75%;
+        height: 850px;
         padding: 0;
     }
 
