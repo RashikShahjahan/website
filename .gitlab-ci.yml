@@ -1,7 +1,7 @@
 image: publysher/hugo
 
 before_script:
-  - apt-get update -qq && apt-get install rsync
+  - apt-get update -qq && apt-get install -y -qq rsync
 
 pages:
   stage: deploy
