@@ -1,7 +1,4 @@
-before_script:
-  - apt-get update -qq && apt-get install -y -qq hugo
-  - hugo -v
-  - which hugo
+image: publysher/hugo
 
 pages:
   stage: deploy
