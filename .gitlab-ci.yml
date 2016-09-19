@@ -1,5 +1,8 @@
 image: publysher/hugo
 
+before-script:
+  - apt-get update -qq && apt-get install rsync
+
 pages:
   stage: deploy
   environment: Production
