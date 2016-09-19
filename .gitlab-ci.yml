@@ -1,6 +1,6 @@
 image: publysher/hugo
 
-before-script:
+before_script:
   - apt-get update -qq && apt-get install rsync
 
 pages:
