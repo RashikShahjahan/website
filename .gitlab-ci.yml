@@ -1,0 +1,16 @@
+before_script:
+  - apt-get update -qq && apt-get install -y -qq hugo
+  - hugo -v
+  - which hugo
+
+pages:
+  stage: deploy
+  environment: Production
+  script:
+  - hugo
+  - rsync -r --delete public/* /var/www/website 
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
