@@ -5,7 +5,7 @@ theme = "hugo-identity-theme"
 title = "Sadman Kazi"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXX-Y"
+#googleAnalytics = "UA-XXXXX-Y"
 
 [params]
 	
@@ -28,7 +28,7 @@ googleAnalytics = "UA-XXXXX-Y"
 	# Personal settings
 	
     name = "Sadman Kazi"
-	position = "Software Engineer"
+	position = "Software Engineer - Student"
 	
 	# Extra stuff
 	# NOTE: There is little different extra stuff in original Identity theme by HTML5 UP.
@@ -66,17 +66,27 @@ googleAnalytics = "UA-XXXXX-Y"
 	[[params.social]]
 		title = "Twitter"
 		icon = "fa-twitter"
-		link = "sadman_k"
+		link = "twitter.com/sadman_k"
 
 	[[params.social]]
 		title = "Github"
 		icon = "fa-github"
-		link = "sadmansk"
+		link = "github.com/sadmansk"
 		
 	[[params.social]]
 		title = "Facebook"
 		icon = "fa-facebook"
-		link = "sadman.sazid"
+		link = "facebook.com/sadman.sazid"
+
+	[[params.social]]
+		title = "LinkedIn"
+		icon = "fa-linkedin"
+		link = "ca.linkedin.com/in/sadmansk"
+
+	[[params.social]]
+		title = "Gitlab"
+		icon = "fa-gitlab"
+		link = "git.sadmansk.com/u/sadmansk"
 	
 	# Footer settings
 	[params.footer]
