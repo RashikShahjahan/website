@@ -7,8 +7,7 @@ pages:
   stage: deploy
   environment: Production
   script:
-    - hugo
-    - cp -R ./builds/* /var/www/website
+    - hugo -v
   artifacts:
     paths:
     - public
