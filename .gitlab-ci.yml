@@ -1,13 +1,17 @@
 image: publysher/hugo
 
 before_script:
-  - apt-get update -qq && apt-get install -y -qq rsync
+  - hugo version
+  - ls
+  - pwd
+  - tree ./build
 
 pages:
   stage: deploy
   environment: Production
   script:
-  - hugo
+    - hugo -d ./builds
+    - cp -R ./build/* /var/www/website
   artifacts:
     paths:
     - public
