@@ -71,17 +71,17 @@ title = "Sadman Kazi"
 	[[params.social]]
 		title = "Github"
 		icon = "fa-github"
-		link = "github.com/sadmansk"
+		link = "#sadmansk"
 		
 	[[params.social]]
 		title = "Facebook"
 		icon = "fa-facebook"
-		link = "facebook.com/sadman.sazid"
+		link = "https://facebook.com/sadman.sazid"
 
 	[[params.social]]
 		title = "LinkedIn"
 		icon = "fa-linkedin"
-		link = "ca.linkedin.com/in/sadmansk"
+		link = "#ca.linkedin.com/in/sadmansk"
 
 	[[params.social]]
 		title = "Gitlab"
