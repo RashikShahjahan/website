@@ -2,16 +2,13 @@ image: publysher/hugo
 
 before_script:
   - hugo version
-  - ls
-  - pwd
-  - tree ./build
 
 pages:
   stage: deploy
   environment: Production
   script:
     - hugo -d ./builds
-    - cp -R ./build/* /var/www/website
+    - cp -R ./builds/* /var/www/website
   artifacts:
     paths:
     - public
