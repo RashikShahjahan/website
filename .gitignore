@@ -1,5 +1,2 @@
-static/images/avatars/mojon.png
-static/images/icons/apple-touch-icon-cyberpunga.png
-static/images/icons/cyberpunga.ico
 .sass-cache
-.gitignore
+public/*
