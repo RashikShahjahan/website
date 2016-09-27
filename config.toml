@@ -29,7 +29,7 @@ title = "Sadman Kazi"
 
     name = "Sadman Kazi"
 	position = "Software Engineer ◦ Student"
-	bio = "Open source enthusiast, software architecture and cyber security nerd. I have professional experience in building embedded systems, network programming, and game engine development."
+	bio = "Open source enthusiast, software architecture and cyber security nerd. <br /> With professional experience in building embedded systems, <br/> network programming, and game engine development."
 
 	# Extra stuff
 	# NOTE: There is little different extra stuff in original Identity theme by HTML5 UP.
