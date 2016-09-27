@@ -49,7 +49,8 @@
 						<header>
 							<span class="avatar"><img src="{{ .Site.BaseURL }}/images/avatars/{{ .Site.Params.avatar  }}" alt="" /></span>
 							<h1>{{ .Site.Params.name  }}</h1>
-							<p>{{ .Site.Params.position  }}</p>
+							<h2>{{ .Site.Params.position  }}</h2>
+							<p>{{ .Site.Params.bio }}</p>
 						</header>
 							        {{ if .Site.Params.contact.enable }}
 										{{ partial "contact.html" . }}
