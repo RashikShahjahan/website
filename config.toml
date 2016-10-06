@@ -28,7 +28,7 @@ title = "Sadman Kazi"
 	# Personal settings
 
     name = "Sadman Kazi"
-	position = "Software Engineer ◦ Student"
+	position = "Software Engineering ◦ UWaterloo"
 	bio = "Open source enthusiast, software architecture and cyber security nerd. With professional experience in building embedded systems, network programming, and game engine development."
 
 	# Extra stuff
@@ -65,19 +65,9 @@ title = "Sadman Kazi"
 	# You may change these with your social links or add others
 
 	[[params.social]]
-		title = "Twitter"
-		icon = "fa-twitter"
-		link = "https://twitter.com/sadman_k"
-
-	[[params.social]]
 		title = "Github"
 		icon = "fa-github"
 		link = "https://github.com/sadmansk"
-
-	[[params.social]]
-		title = "Facebook"
-		icon = "fa-facebook"
-		link = "https://facebook.com/sadman.sazid"
 
 	[[params.social]]
 		title = "LinkedIn"
