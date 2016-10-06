@@ -1,4 +1,4 @@
-# Source Code for www.sadmansk.com
+# Source Code for https://sadmansk.com
 > Last major update: 24th September, 2016
 
 ## Setup
