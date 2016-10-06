@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://sadmansk.com" #without ending slash
+baseurl = "" #without ending slash
 languageCode = "en-us"
 theme = "hugo-identity-theme"
 title = "Sadman Kazi"
