@@ -80,6 +80,16 @@ title = "Sadman Kazi"
 		icon = "fa-gitlab"
 		link = "https://git.sadmansk.com/u/sadmansk"
 
+	[[params.social]]
+		title = "Resume"
+		icon = "fa-list"
+		link = "/resume.pdf"
+
+	[[params.social]]
+		title = "Email"
+		icon = "fa-envelope"
+		link = "mailto:sadmansk@protonmail.com"
+
 	# Footer settings
 	[params.footer]
 		copyright = "Sadman Kazi 2016"
