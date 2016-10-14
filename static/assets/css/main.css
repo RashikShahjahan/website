@@ -391,7 +391,7 @@ ul {
         width: 3.75em;
         height: 3.75em;
         border-radius: 100%;
-        border: solid 1px #c8cccf;
+        border: solid 1px #AFB1B3;
         line-height: 3.75em;
         overflow: hidden;
         text-align: center;
@@ -406,9 +406,9 @@ ul {
           text-transform: none !important; }
         ul.icons li a:before {
           color: #ffffff;
-          text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf; }
+          text-shadow: 1.25px 0px 0px #AFB1B3, -1.25px 0px 0px #AFB1B3, 0px 1.25px 0px #AFB1B3, 0px -1.25px 0px #AFB1B3; }
         ul.icons li a:hover:before {
-          text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496; }
+          text-shadow: 1.25px 0px 0px #8274FF, -1.25px 0px 0px #8274FF, 0px 1.25px 0px #8274FF, 0px -1.25px 0px #8274FF; }
         ul.icons li a:before {
           position: absolute;
           top: 0;
@@ -420,7 +420,7 @@ ul {
           text-align: center;
           text-indent: 0; }
         ul.icons li a:hover {
-          border-color: #ff7496; }
+          border-color: #8274FF; }
     @media screen and (max-width: 480px) {
       ul.icons li a:before {
         font-size: 1.5rem; } }
@@ -463,7 +463,7 @@ button,
   padding: 0 1.5em;
   background-color: transparent;
   border-radius: 4px;
-  border: solid 1px #c8cccf;
+  border: solid 1px #AFB1B3;
   color: #414f57 !important;
   cursor: pointer;
   text-align: center;
@@ -474,8 +474,8 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    border-color: #ff7496;
-    color: #ff7496 !important; }
+    border-color: #8274FF;
+    color: #8274FF !important; }
   input[type="submit"].icon,
   input[type="reset"].icon,
   input[type="button"].icon,
