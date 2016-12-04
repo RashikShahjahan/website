@@ -1,0 +1,3 @@
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = git@git.sadmansk.com:sadmansk/hugo-goa.git
