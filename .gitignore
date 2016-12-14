@@ -1,2 +1,5 @@
 .sass-cache
-public/*
+public/
+.DS_Store
+*/**/.DS_Store
+*.swp

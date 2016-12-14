@@ -3,21 +3,13 @@
 
 [![build status](https://git.sadmansk.com/sadmansk/website/badges/master/build.svg)](https://git.sadmansk.com/sadmansk/website/commits/master)
 
+## Usage
 
+* Install [Hugo](gohugo.io)
+* git clone https://github.com/shenoybr/hugo-goa-demo
+* Run `hugo server -w -v` from the root directory
+* Site will be visible at `localhost:1313`
 
-## Setup
-You need [hugo](https://gohugo.io) installed in order to build the site. Once you
-have that downloaded, run the `hugo` command to build the site, which puts the
-generated files in a `public/` folder. You could also run `hugo server` and navigate
-to `localhost:1313` in your browser to see your generated site. If you want to learn
-more about using hugo, [their official docs](https://gohugo.io/overview/usage/)
-is a great resource.
+## License
 
-## Annotations
-
-Thanks
-
-- to [spf13](//github.com/spf13) for creating Hugo and the awesome community around the project
-- to [digitalcraftsman](//github.com/digitalcraftsman) for creating Hugo themes and writing nice READMEs
-- to [n33](https://github.com/n33), (of course!) for original Identity Theme
-- to [aerohub](https://github.com/aerohub), for the port of the Identity Theme to Hugo
+Licensed under the [MIT](https://opensource.org/licenses/MIT) License. See the [LICENSE](https://raw.githubusercontent.com/shenoybr/hugo-goa-demo/master/LICENSE) file for more details.
