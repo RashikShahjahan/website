@@ -56,10 +56,15 @@ hightlightjs = true
 [[menu.main]]
     name = "resume"
     identifier = "resume"
-    weight = 200
+    weight = 100
     url = "/resume.pdf"
 [[menu.main]]
     name = "projects"
     identifier = "projects"
     weight = 300
     url = "/projects/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 400
+    url = "/about/"

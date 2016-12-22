@@ -1,7 +1,11 @@
 +++
+categories = ["about"]
+comments = false
 date = "2016-10-04T09:28:47-04:00"
 draft = false
-title = "about"
+slug = ""
+tags = ["about"]
+title = "About me"
 
 +++
 
