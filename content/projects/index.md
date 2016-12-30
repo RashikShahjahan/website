@@ -18,7 +18,11 @@ All these projects are hosted on my [Github](https://github.com/sadmansk) and
 please take a look at my [resume](resume.pdf), [LinkedIn profile](https://linkedin.com/in/sadmansk)
 or [Developer Story](https://stackoverflow.com/story/sadmansk)
 
-### 2015
+#### Straights
+A card game that supports upto 4 human/AI players and features a complete GUI.
+
+**Tools:** C++, gtk, make.
+
 #### 3D Game Engine
 An open source cross platform 3D game engine (WIP) using modern graphics rendering techniques.
 
@@ -39,7 +43,6 @@ An Android air guitar app that  uses the screen as the frets and a Myo armed han
 
 **Tools:** Java, Android SDK, Myo API.
 
-### 2014
 #### City Kit
 A web service that displays local events, businesses, stores, etc on a map using Google Maps API.
 
