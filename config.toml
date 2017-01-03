@@ -3,7 +3,7 @@
 baseurl = "https://sadmansk.com"
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
+languagecode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Sadman Kazi"
-intro = "Software Engieering student @ UWaterloo"
+intro = "Software Engineering student @ UWaterloo"
 description = "Open source enthusiast, software architecture and cyber security nerd. <br/> Professional experience in building embedded systems, network programming, and game engine development."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
