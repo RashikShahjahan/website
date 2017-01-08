@@ -1,3 +1,7 @@
 [submodule "themes/hugo-goa"]
 	path = themes/hugo-goa
 	url = https://github.com/sadmansk/hugo-goa.git
+
+[submodule "content/blog"]
+	path = content/blog
+	url = https://git.sadmansk.com/sadmansk/blog.git

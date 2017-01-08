@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Sadman Kazi"
 intro = "Software Engineering student @ UWaterloo"
-description = "Open source enthusiast, software architecture and cyber security nerd. <br/> Professional experience in building embedded systems, network programming, and game engine development."
+description = "Open source enthusiast, software architecture and cyber security nerd. <br/> I have experience in building embedded systems, network programming, and game engine development."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -61,8 +61,13 @@ hightlightjs = true
 [[menu.main]]
     name = "projects"
     identifier = "projects"
-    weight = 300
+    weight = 200
     url = "/projects/"
+[[menu.main]]
+    name = "blog"
+    identifier = "blog"
+    weight = 300
+    url = "/blog/"
 [[menu.main]]
     name = "about"
     identifier = "about"
