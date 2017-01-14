@@ -28,8 +28,8 @@ I would want to explore.
 
 I maintain a bunch of techy hobbies, such as getting the most out of open source
 projects. I love building stuff by myself, and other DIY stuff: My [Gaming
-Computer](), or even my personal [server](https://io.sadmansk.com), where I host
-my own [git server](https://git.sadmansk.com), my [website](https://sadmansk.com),
+Computer](https://ca.pcpartpicker.com/b/XRXH99), or even my personal [server](https://io.sadmansk.com),
+where I host my own [git server](https://git.sadmansk.com), my [website](https://sadmansk.com),
 [blog](https://blog.sadmansk.com), personal [syncthing](https://syncthing.net)
 [instance](https://sync.sadmansk.com) (password protected), etc. Also there are
 other projects that I'm in the process of deploying, such as CozyCloud,  Matrix,
