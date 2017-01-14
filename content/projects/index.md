@@ -19,49 +19,51 @@ please take a look at my [resume](resume.pdf), [LinkedIn profile](https://linked
 or [Developer Story](https://stackoverflow.com/story/sadmansk). They are listed
 in reverse chronological order.
 
-#### Straights <a href="https://github.com/sadmansk/straights"><i class="fa fa-github" aria-hidden="true"></i></a>
+### Straights  <a href="https://github.com/sadmansk/straights"><i class="fa fa-github" aria-hidden="true"></i></a>
 A card game that supports upto 4 human/AI players and features a complete GUI.
 
 **Tools:** C++, gtk, make.
 
 
-#### 3D Game Engine <a href="https://git.sadmansk.com/sadmansk/GameEngine"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
+### 3D Game Engine  <a href="https://github.com/sadmansk/GameEngine"><i class="fa fa-github" aria-hidden="true"></i></a>
+<a href="https://git.sadmansk.com/sadmansk/GameEngine"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
 An open source cross platform 3D game engine (WIP) using modern graphics rendering techniques.
 
 **Tools:** C, C++, GLSL, CMake, OpenGL, GL Mathematics, SDL2.
 
 
-#### Etxt <a href="https://github.com/sadmansk/Etxt"><i class="fa fa-github" aria-hidden="true"></i></a>
+### Etxt  <a href="https://github.com/sadmansk/Etxt"><i class="fa fa-github" aria-hidden="true"></i></a>
 An Android app to send-receive emails, and browse reddit when disconnected from the internet through texts.
 
 **Tools:** Java, Python, Android SDK, Twilio API, Reddit API, Gmail API.
 
 
-#### IntoxicM8 <a href="https://github.com/IntoxicM8"><i class="fa fa-github" aria-hidden="true"></i></a>
+### IntoxicM8 <a href="https://github.com/IntoxicM8"><i class="fa fa-github" aria-hidden="true"></i></a>
 An Android application that detects when you are intoxicated and helps you get home safely by calling a friend or taxi.
 
 **Tools:** Python, Android SDK, Java, Uber API.
 
 
-#### Myo Guitar <a href="https://github.com/jgzuke/MyoProject"><i class="fa fa-github" aria-hidden="true"></i></a>
+### Myo Guitar <a href="https://github.com/jgzuke/MyoProject"><i class="fa fa-github" aria-hidden="true"></i></a>
 An Android air guitar app that  uses the screen as the frets and a Myo armed hand for strumming.
 
 **Tools:** Java, Android SDK, Myo API.
 
 
-#### City Kit <a href="https://github.com/ProjectShrike/CityKit"><i class="fa fa-github" aria-hidden="true"></i></a>
+### City Kit <a href="https://github.com/ProjectShrike/CityKit"><i class="fa fa-github" aria-hidden="true"></i></a>
 A web service that displays local events, businesses, stores, etc on a map using Google Maps API.
 
 **Tools:** Javascript, HTML, CSS, NodeJS, MySQL, Google Maps API.
 
 
-#### Myo Pad <a href="https://github.com/sadmansk/MyoPad"><i class="fa fa-github" aria-hidden="true"></i></a>
+### Myo Pad <a href="https://github.com/sadmansk/MyoPad"><i class="fa fa-github" aria-hidden="true"></i></a>
 A program using the Myo armband that exports drawings/writing on a surface to graphical interface on a computer.
 
 **Tools:** C++, Visual Studio, Myo API, OpenGL.
 
 
-#### Eclipse <a href="https://github.com/sadmansk/Eclipse"><i class="fa fa-github" aria-hidden="true"></i></a>
+### Eclipse <a href="https://github.com/sadmansk/Eclipse"><i class="fa fa-github" aria-hidden="true"></i></a> 
+ 29 <a href="https://git.sadmansk.com/sadmansk/Eclipse"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
 An open source 3D Android game where you have to protect the sun from freezing up by destroying sun-bound ice cubes.
 
 **Tools:** C#, Unity3D,
