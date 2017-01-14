@@ -25,8 +25,7 @@ A card game that supports upto 4 human/AI players and features a complete GUI.
 **Tools:** C++, gtk, make.
 
 
-### 3D Game Engine  <a href="https://github.com/sadmansk/GameEngine"><i class="fa fa-github" aria-hidden="true"></i></a>
-<a href="https://git.sadmansk.com/sadmansk/GameEngine"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
+### 3D Game Engine  <a href="https://github.com/sadmansk/GameEngine"><i class="fa fa-github" aria-hidden="true"></i></a> <a href="https://git.sadmansk.com/sadmansk/GameEngine"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
 An open source cross platform 3D game engine (WIP) using modern graphics rendering techniques.
 
 **Tools:** C, C++, GLSL, CMake, OpenGL, GL Mathematics, SDL2.
@@ -62,8 +61,7 @@ A program using the Myo armband that exports drawings/writing on a surface to gr
 **Tools:** C++, Visual Studio, Myo API, OpenGL.
 
 
-### Eclipse <a href="https://github.com/sadmansk/Eclipse"><i class="fa fa-github" aria-hidden="true"></i></a> 
- 29 <a href="https://git.sadmansk.com/sadmansk/Eclipse"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
+### Eclipse <a href="https://github.com/sadmansk/Eclipse"><i class="fa fa-github" aria-hidden="true"></i></a> <a href="https://git.sadmansk.com/sadmansk/Eclipse"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
 An open source 3D Android game where you have to protect the sun from freezing up by destroying sun-bound ice cubes.
 
 **Tools:** C#, Unity3D,
