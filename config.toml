@@ -39,6 +39,7 @@ linkedin = "sadmansk"
 twitter = "sadman_k"
 stackoverflow = "sadmansk"
 gitlab = "sadmansk"
+keybase = "sadmansk"
 email = "sadmansk@protonmail.com"
 
 ## Extras
@@ -48,11 +49,6 @@ poweredby = true
 hightlightjs = true
 
 ## Main Menu
-#[[menu.main]]
-#    name = "blog"
-#    weight = 100
-#    identifier = "blog"
-#    url = "/blog/"
 [[menu.main]]
     name = "resume"
     identifier = "resume"
