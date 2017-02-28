@@ -16,21 +16,21 @@ theme = "hugo-goa"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+#googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Sadman Kazi"
 intro = "Software Engineering student @ UWaterloo"
-description = "Open source enthusiast, software architecture and cyber security nerd. <br/> I have experience in building embedded systems, network programming, and game engine development."
+description = "Open source enthusiast, software architecture and cyber security nerd. <br/> Previously at <a href=\"http://extremenetworks.com\">@extremenetworks</a>, <a href=\"http://www.autodesk.com\">@autodesk</a> and <a href=\"http://deloitte.ca\">@deloitte</a>"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "Sadman Kazi personal website"
-keywords = "software,engineer,developer,programmer"
+keywords = "software,engineer,developer,programmer,security,open source,game engine"
 
 ## Social Accounts
 [params.social]
