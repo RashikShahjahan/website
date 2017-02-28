@@ -19,6 +19,18 @@ please take a look at my [resume](resume.pdf), [LinkedIn profile](https://linked
 or [Developer Story](https://stackoverflow.com/story/sadmansk). They are listed
 in reverse chronological order.
 
+### Doodler (currently private due to course restrictions)
+A painting program that supports doodling in any colors with different stroke sizes.
+Also has a timeline feature, that can be used to animate the doodles both forward
+and backwards. Doodles can also be saved to and loaded from files.
+
+**Tools:** Java, Swing.
+
+### Snake Game (currently private due to course restrictions)
+A clone of the classic snake game with moving walls.
+
+**Tools:** C++, Xlib.
+
 ### Straights  <a href="https://github.com/sadmansk/straights"><i class="fa fa-github" aria-hidden="true"></i></a>
 A card game that supports upto 4 human/AI players and features a complete GUI.
 
