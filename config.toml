@@ -23,10 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Sadman Kazi"
 intro = "Software Engineering student @ UWaterloo"
-description = "Open source enthusiast, software architecture and cyber security " \
-    "nerd. <br/> Currently at <a href=\"http://wavecomp.ai\">@wavecomputing</a> " \
-    "<br/> Previously at <a href=\"http://extremenetworks.com\">@extremenetworks</a>," \
-    "<a href=\"http://www.autodesk.com\">@autodesk</a> and <a href=\"http://deloitte.ca\">@deloitte</a>"
+description = "Open source enthusiast, software architecture and cyber security nerd. <br/> Currently at <a href=\"http://wavecomp.ai\">@wavecomputing</a> <br/> Previously at <a href=\"http://extremenetworks.com\">@extremenetworks</a>, <a href=\"http://www.autodesk.com\">@autodesk</a> and <a href=\"http://deloitte.ca\">@deloitte</a>"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
