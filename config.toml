@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "Sadman Kazi"
 intro = "Software Engineering student @ UWaterloo"
 description = "Open source enthusiast, software architecture and cyber security nerd. \
-<br/> Currently doing AI stuff at <a href=\"https://nvidia.com\">@nvidia</a>NVIDIA. \
+<br/> Currently doing AI stuff at <a href=\"https://nvidia.com\">@nvidia</a>. \
 Previously at <a href=\"https://wavecomp.ai\">@wavecomputing</a>, <a href=\"http://extremenetworks.com\">@extremenetworks</a>, <a href=\"http://www.autodesk.com\">@autodesk</a> and <a href=\"http://deloitte.ca\">@deloitte</a>"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
