@@ -1,8 +1,7 @@
-image: jojomi/hugo:0.17
+image: publysher/hugo
 
 before_script:
   - hugo version
-  - apk add --update -y git
   - git submodule update --init --recursive
 
 pages:
