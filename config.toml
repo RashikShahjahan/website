@@ -12,43 +12,83 @@ publishdir = "public"
 author = "Sadman Kazi"
 title = "Sadman Kazi"
 
-theme = "hugo-goa"
+theme = "manis"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 #googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
+# Copyright notice. Note: You can use HTML tag here
+copyright = "© 2019 Sadman Kazi. <a href=\"http://creativecommons.org/licenses/by/3.0/\">Some Rights Reserved</a>."
+pluralizeListTitles = false
+
+# Minimum number of posts before paginate navigation show up
+paginate = 10
+
+# Code Highlighting (Chroma)
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
 ## Site Settings
 [params]
-author = "Sadman Kazi"
-intro = "Software Engineering student @ UWaterloo"
-description = "Open source enthusiast, software architecture and cyber security nerd. \
-<br/> Currently doing AI stuff at <a href=\"https://nvidia.com\">@nvidia</a>. \
-Previously at <a href=\"https://wavecomp.ai\">@wavecomputing</a>, <a href=\"http://extremenetworks.com\">@extremenetworks</a>, <a href=\"http://www.autodesk.com\">@autodesk</a> and <a href=\"http://deloitte.ca\">@deloitte</a>"
-authorimage = "headshot.jpg"
-dateformat = "Jan 2, 2006"
+    author = "Sadman Kazi"
+    intro = "Software Engineering student @ UWaterloo"
+    description = "Open source enthusiast, software architecture and cyber security nerd."
+    authorimage = "headshot.jpg"
+    dateformat = "Jan 2, 2006"
 
-## Site Meta Settings
-[params.meta]
-description = "Sadman Kazi's Personal Website"
-keywords = "software,engineer,developer,programmer,security,open source,game engine"
+    tagline = "random tidbits"
+    keywords = "software,engineer,developer,programmer,security,open source,game engine"
 
-## Social Accounts
-[params.social]
-github = "sadmansk"
-linkedin = "sadmansk"
-twitter = "sadman_k"
-stackoverflow = "sadmansk"
-gitlab = "sadmansk"
-keybase = "sadmansk"
-email = "me@sadmansk.com"
+    # If true give attribution to this theme
+	themeAttrib = true
 
-## Extras
-[params.extra]
-copyright = "© 2017. Sadman Kazi. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = true
-hightlightjs = true
+	# URL to license file, can be outside of your domain
+	#licenseURL = "/about/license"
+
+	# Configure which sections for Latest Posts
+	mainSections = ["blog"]
+
+	# Configure which sections for Latest Works
+	workSections = ["projects"]
+
+	# List of sections that support disqus comments
+	disqusSections = [ "blog" ]
+
+	# List of sections that support utterances comments
+	utterancesSections = [ "blog" ]
+
+	# Utterances Configuration
+	utterancesRepo = ""
+	utterancesTheme = "github-light"
+	utterancesLabel = ""
+
+	# 404 Configuration
+	head404 = "Sorry, I can't find what you want."
+	sub404 = "Back to <a href='/'>Home</a>."
+
+	# Color of your website's accent
+	#colorTheme = "#ff6565"
+
+	# Maximum number of item in Latest Posts or Works
+	latestCount = 5
+
+	# Path to site's favicon image
+	#faviconImg = ""
+
+	# Code Highlighting (HighlightJS)
+	highlightJs = false
+	highlightJsLanguages = [ "go" ]
+	highlightJsStyle = "ocean"
+
+    github = "sadmansk"
+    linkedin = "sadmansk"
+    twitter = "sadman_k"
+    #stackoverflow = "sadmansk"
+    gitlab = "sadmansk"
+    keybase = "sadmansk"
+    email = "me@sadmansk.com"
 
 ## Main Menu
 [[menu.main]]
@@ -70,4 +110,4 @@ hightlightjs = true
     name = "about"
     identifier = "about"
     weight = 400
-    url = "/about/"
+    url = "/about"
